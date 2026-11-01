@@ -25,7 +25,7 @@ Built around the Arduino UNO R4 Minima, it uses the Renesas RA4M1 microcontrolle
 
 ### Main components
 
-The Arduino UNO R4 Minima uses the Renesas RA4M1 microcontroller, which integrates the SCE5 security engine and hardware-based true random number generation functionality.
+The Arduino UNO R4 Minima uses the Renesas RA4M1 microcontroller, which integrates the SCE5 secure crypto engine that can be used for hardware-based true random number generation functionality.
 
 ## 🔌 Connections
 
